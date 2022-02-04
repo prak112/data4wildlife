@@ -11,7 +11,7 @@
     * _The benchmark dataset should be social media platform agnostic, as IWT happens across multiple platforms such as Instagram and YouTube._
 
 ## Our Task 
-* **Collect instagram posts with images related to _Slow Loris_ hashtags (slowloris, slowlorisforsale) to build a [benchmark dataset](###Challenge)** 🏛️
+* **Collect instagram posts with images related to _Slow Loris_ hashtags (slowloris, slowlorisforsale) to build a benchmark dataset** 🏛️
 
 * **Task Duration** - 26 hours 🏃⏲️
 
