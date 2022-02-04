@@ -9,7 +9,7 @@
     * _The benchmark dataset should be social media platform agnostic, as wildlife is trafficking across multiple platforms such as Instagram and YouTube._
 
 ## Our Task 
-**collect instagram posts with images related to Slow Loris hashtags (slowloris, slowlorisforsale) in English, Japanese 🗾 and Thai 🇹🇭, since these were the popular locations based on our manual search** 🏛️
+* **Collect instagram posts with images related to Slow Loris hashtags (slowloris, slowlorisforsale) in English, Japanese 🗾 and Thai 🇹🇭, since these were the popular locations based on our manual search** 🏛️
 
 * **Time for the Task** - 26 hours 🏃⏲️
 
