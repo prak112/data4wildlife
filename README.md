@@ -6,7 +6,7 @@
 
 ### **Challenge** 
 * To build a **benchmark dataset** of possible instances of different types of IWT related information from online social platforms which could also be searched and analyzed 🔚 
-* According to challenge guidelines : [Challenge1_GuidanceDocument.pdf](https://github.com/prak112/data4wildlife/files/8005154/Challenge.1.Guidance.Document.pdf)
+* According to challenge guidelines : [Challenge1_Guidelines](https://github.com/prak112/data4wildlife/files/8005154/Challenge.1.Guidance.Document.pdf)
     * _A benchmark dataset is a public dataset which is designed and collected for studying real-world data science/research problems._ 
     * _The benchmark dataset should be social media platform agnostic, as IWT happens across multiple platforms such as Instagram and YouTube._
 
