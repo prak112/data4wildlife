@@ -2,7 +2,7 @@
 **Hackathon (29-30 Jan 2022) based on developing a digital solution to prevent illegal wildlife trade (IWT) on online social platforms.**
 
 * **Team** - Sean P. Rogers, Gabriela Youngken  👩‍🎓 👨‍🎓
-* **Mentor** - Alastair Jamieson 👨‍🏫
+* **Mentor** - Alastair Jamieson 👨‍🏫 (also API-keys holder 👛)
 
 ### **Challenge** 
 * To build a **benchmark dataset** of possible instances of IWT & related information from online social platforms which could also be searched and analyzed 🔚 
