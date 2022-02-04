@@ -25,7 +25,7 @@
 - Import json to webpage, _index.html_, for human validation of images
 - Manually validate images and export csv file with information from comments
 
-### Future Prospects :
+### Future Prospects 👀
 - Call api recursively with 'next_page_id' to collect all pages
 - Depending on image volume, project can evolve into Image Recognition for automation
 
